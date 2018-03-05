@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "bootsample.configuration.OracleConfiguration",
+      "name": "oracle",
+      "type": "bootsample.configuration.OracleConfiguration"
+    }
+  ],
+  "properties": []
+}
